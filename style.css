@@ -1,13 +1,18 @@
 
+
 body {
   font: 100% Helvetica, sans-serif;
-   
+    padding-right:15px;
+    padding-left:15px;
     
+  }
+  .jumbotron {
+      background-color: white;
+
   }
 h1 {
     color: #167B62;
-    margin-left:20px; 
-    margin-right:20px;
+   
     padding-right:15px;
     padding-left:15px;
 }
@@ -17,15 +22,13 @@ p {
     color:black;
 }
 h3{
-     margin-left:20px; 
-    margin-right:20px;
+   
     padding-right:15px;
     padding-left:15px;
 }
 h2 {
     margin-top: 20px;
-    margin-left:20px; 
-    margin-right:20px;
+   
     padding-right:15px;
     padding-left:15px;
     color: #167B62;
@@ -33,15 +36,13 @@ h2 {
 }
 h5 {
      color: #167B62;
-     margin-left:20px; 
-     margin-right:20px;
+    
 }
 .navbar-custom .navbar-nav .nav-link {
     color: #167B62;
 }
 .table {
-    margin-left:20px; 
-    margin-right:20px;
+    
     padding-right:15px;
     padding-left:15px;
 }
@@ -102,8 +103,7 @@ color: #5D2E12;
 }
 
 #mc_embed_signup {
-     margin-left:20px; 
-    margin-right:20px;
+     
     padding-right:15px;
     padding-left:15px;
 }
